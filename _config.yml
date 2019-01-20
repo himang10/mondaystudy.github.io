@@ -49,8 +49,8 @@ keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
 author: jseung21
-#image: '/assets/images/default_blog_cover.jpg'
-image: 'http://t1.daumcdn.net/brunch/service/user/5Ucl/image/NXPUfbYUfISRRO-ron-zXQFm9Dw.jpg'
+#image: 'http://t1.daumcdn.net/brunch/service/user/5Ucl/image/NXPUfbYUfISRRO-ron-zXQFm9Dw.jpg'
+image: 'https://i.pinimg.com/originals/e8/67/d9/e867d987ae35c5d7d033d14d553fe271.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
